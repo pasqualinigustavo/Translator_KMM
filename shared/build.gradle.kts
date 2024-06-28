@@ -3,6 +3,7 @@ plugins {
     kotlin("native.cocoapods")
     id("com.android.library")
     kotlin("plugin.serialization") version Deps.kotlinVersion
+    id("com.squareup.sqldelight")
 }
 
 kotlin {
@@ -95,9 +96,9 @@ android {
     task("testClasses")
 }
 
-//sqldelight {
-//    database("TranslateDatabase") {
-//        packageName = "com.confradestech.translator_kmm.database"
-//        sourceFolders = listOf("sqldelight")
-//    }
-//}
+sqldelight {
+    database("TranslateDatabase") {
+        packageName = "com.plcoding.translator_kmm.database"
+        sourceFolders = listOf("sqldelight")
+    }
+}
