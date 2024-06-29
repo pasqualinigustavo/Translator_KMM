@@ -24,6 +24,7 @@
 		808F27DD2C30798D00968A72 /* ProgressButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808F27DC2C30798D00968A72 /* ProgressButton.swift */; };
 		808F27DF2C30799600968A72 /* LanguageDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808F27DE2C30799600968A72 /* LanguageDisplay.swift */; };
 		808F27E12C3080C700968A72 /* TextToSpeech.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808F27E02C3080C700968A72 /* TextToSpeech.swift */; };
+		808F27E32C3081DD00968A72 /* TranslateHistoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808F27E22C3081DD00968A72 /* TranslateHistoryItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		808F27DC2C30798D00968A72 /* ProgressButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressButton.swift; sourceTree = "<group>"; };
 		808F27DE2C30799600968A72 /* LanguageDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageDisplay.swift; sourceTree = "<group>"; };
 		808F27E02C3080C700968A72 /* TextToSpeech.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextToSpeech.swift; sourceTree = "<group>"; };
+		808F27E22C3081DD00968A72 /* TranslateHistoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslateHistoryItem.swift; sourceTree = "<group>"; };
 		A1B15B46E67EF52C65854275 /* Pods_iosApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iosApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -157,6 +159,7 @@
 				808F27DA2C30795400968A72 /* TranslateTextField.swift */,
 				808F27DC2C30798D00968A72 /* ProgressButton.swift */,
 				808F27DE2C30799600968A72 /* LanguageDisplay.swift */,
+				808F27E22C3081DD00968A72 /* TranslateHistoryItem.swift */,
 			);
 			path = components;
 			sourceTree = "<group>";
@@ -314,6 +317,7 @@
 				808F27C72C304F7600968A72 /* Colors.swift in Sources */,
 				808F27E12C3080C700968A72 /* TextToSpeech.swift in Sources */,
 				808F27D72C306EAD00968A72 /* TranslateScreen.swift in Sources */,
+				808F27E32C3081DD00968A72 /* TranslateHistoryItem.swift in Sources */,
 				7555FF83242A565900829871 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
