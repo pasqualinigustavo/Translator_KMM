@@ -1,0 +1,56 @@
+package com.plcoding.translator_kmm.android.translate.presentation.components
+
+import androidx.compose.foundation.Image
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
+import androidx.compose.material.DropdownMenuItem
+import androidx.compose.material.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.unit.dp
+import com.plcoding.translator_kmm.R
+import com.plcoding.translator_kmm.android.TranslatorTheme
+import com.plcoding.translator_kmm.android.translate.presentation.compose.TPreviewScreens
+import com.plcoding.translator_kmm.core.domain.language.Language
+import com.plcoding.translator_kmm.core.presentation.UiLanguage
+
+@Composable
+fun LanguageDropDownItem(
+    language: UiLanguage,
+    onClick: () -> Unit,
+    modifier: Modifier = Modifier
+) {
+    DropdownMenuItem(
+        onClick = onClick,
+        modifier = modifier
+    ) {
+        Image(
+            painter = painterResource(id = language.drawableRes),
+            contentDescription = language.language.langName,
+            modifier = Modifier.size(40.dp)
+        )
+        Spacer(modifier = Modifier.width(16.dp))
+        Text(
+            text = language.language.langName
+        )
+    }
+}
+
+@Composable
+@TPreviewScreens
+private fun LanguageDropDownItemPreview() {
+    TranslatorTheme {
+        LanguageDropDownItem(
+            language = UiLanguage(
+                drawableRes = R.drawable.english,
+                language = Language.ENGLISH
+            ),
+            onClick = {},
+            modifier = Modifier
+                .fillMaxSize()
+        )
+    }
+}

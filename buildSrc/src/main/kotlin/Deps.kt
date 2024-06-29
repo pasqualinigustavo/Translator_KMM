@@ -20,6 +20,7 @@ object Deps {
 
     //Material 3
     private const val composeMaterial3 = "1.1.2"
+    const val composeMaterial = "androidx.compose.material:material:$composeVersion"
     const val material3Compose = "androidx.compose.material3:material3:$composeMaterial3"
 
     // KOTLIN DATE TIME
