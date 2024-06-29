@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">KMM Translator</string>
     <string name="close">Close</string>
     <string name="open">Open</string>
     <string name="swap_languages">Swap languages</string>
