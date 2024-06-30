@@ -22,7 +22,7 @@ Access my: [Linkedin][https://www.linkedin.com/in/pasqualinigustavo/]
   - Jetpack Compose - Modern Android UI development
   - Dagger Hilt - Dependency Injection
 
-Android Video: ![Android sample.gif](videos%2FAndroid%20sample.gif)
+Android Video: ![Android sample.gif](<img src="videos%2FAndroid%20sample.gif" width="250" height="250"/>)
 
 * IOS-specific Tools:
   -  Swift UI - Modern IOS UI development
