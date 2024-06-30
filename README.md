@@ -22,9 +22,13 @@ Access my: [Linkedin][https://www.linkedin.com/in/pasqualinigustavo/]
   - Jetpack Compose - Modern Android UI development
   - Dagger Hilt - Dependency Injection
 
-Android Video: ![Android sample.gif](<img src="videos%2FAndroid%20sample.gif" width="250" height="250"/>)
+Android Videos: 
+![Translation.gif](videos%2FTranslation.gif)
+![VoiceToText.gif](videos%2FVoiceToText.gif)
 
 * IOS-specific Tools:
   -  Swift UI - Modern IOS UI development
   -  Cocoa Pods - Build shared module dependency
- 
+
+iOS Videos:
+![iOSTranslate.gif](videos%2FiOSTranslate.gif)

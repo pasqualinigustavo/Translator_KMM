@@ -30,7 +30,7 @@ import Combine
     }
     
     func startObserving() {
-        handle = viewModel.state.subscribe { [weak self] state in
+        handle = viewModel.state.collect { [weak self] state in
             if let state {
                 self?.state = state
             }
