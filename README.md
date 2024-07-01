@@ -23,12 +23,12 @@ Access my: [Linkedin](https://www.linkedin.com/in/pasqualinigustavo/)
   - Dagger Hilt - Dependency Injection
 
 Android Videos:
-<img alt="Translation.gif" height="750" src="videos%2FTranslation.gif" width="400"/>
-<img alt="VoiceToText.gif" height="750" src="videos%2FVoiceToText.gif" width="400"/>
+<img alt="Translation.gif" height="750" src="videos%2FTranslation.gif" width="350"/>
+<img alt="VoiceToText.gif" height="750" src="videos%2FVoiceToText.gif" width="350"/>
 
 * IOS-specific Tools:
   -  Swift UI - Modern IOS UI development
   -  Cocoa Pods - Build shared module dependency
 
 iOS Videos:
-<img alt="iOSTranslate.gif" height="750" src="videos%2FiOSTranslate.gif" width="400"/>
+<img alt="iOSTranslate.gif" height="750" src="videos%2FiOSTranslate.gif" width="350"/>
