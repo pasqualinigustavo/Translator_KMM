@@ -1,6 +1,9 @@
-### 🏗️ Translator KMM project built on [Build Industry-Level Multiplatform apps with KMM Course](https://pl-coding.com/building-industry-level-multiplatform-apps-with-kmm/) </br></br>
+### 🏗️ Translator KMM project built on [Build Industry-Level Multiplatform apps with KMM Course](https://elopage.com/payer/s/philipplackner/courses/kmm-course) </br></br>
 
-Hi, my name is Gustavo and this is the sample project I built doing my KMM course.
+
+
+
+Hi, my name is Gustavo and this is the sample project I built doing my KMM course.</br>
 Access my: [Linkedin](https://www.linkedin.com/in/pasqualinigustavo/)
 
 ## ⚡ App Functionalities:
@@ -22,7 +25,7 @@ Access my: [Linkedin](https://www.linkedin.com/in/pasqualinigustavo/)
   - Jetpack Compose - Modern Android UI development
   - Dagger Hilt - Dependency Injection
 
-Android Videos:
+Android Videos:</br></br>
 <img alt="Translation.gif" height="750" src="videos%2FTranslation.gif" width="350"/>
 <img alt="VoiceToText.gif" height="750" src="videos%2FVoiceToText.gif" width="350"/>
 
@@ -30,5 +33,5 @@ Android Videos:
   -  Swift UI - Modern IOS UI development
   -  Cocoa Pods - Build shared module dependency
 
-iOS Videos:
+iOS Videos:</br></br>
 <img alt="iOSTranslate.gif" height="750" src="videos%2FiOSTranslate.gif" width="350"/>
