@@ -1,7 +1,7 @@
 ### 🏗️ Translator KMM project built on [Build Industry-Level Multiplatform apps with KMM Course](https://pl-coding.com/building-industry-level-multiplatform-apps-with-kmm/) </br></br>
 
 Hi, my name is Gustavo and this is the sample project I built doing my KMM course.
-Access my: [Linkedin][https://www.linkedin.com/in/pasqualinigustavo/]
+Access my: [Linkedin](https://www.linkedin.com/in/pasqualinigustavo/)
 
 ## ⚡ App Functionalities:
  - Native UI's: users can translate text to any of the available languages
@@ -23,12 +23,12 @@ Access my: [Linkedin][https://www.linkedin.com/in/pasqualinigustavo/]
   - Dagger Hilt - Dependency Injection
 
 Android Videos:
-<img alt="Translation.gif" height="750" src="videos%2FTranslation.gif" width="250"/>
-<img alt="VoiceToText.gif" height="750" src="videos%2FVoiceToText.gif" width="250"/>
+<img alt="Translation.gif" height="750" src="videos%2FTranslation.gif" width="400"/>
+<img alt="VoiceToText.gif" height="750" src="videos%2FVoiceToText.gif" width="400"/>
 
 * IOS-specific Tools:
   -  Swift UI - Modern IOS UI development
   -  Cocoa Pods - Build shared module dependency
 
 iOS Videos:
-<img alt="iOSTranslate.gif" height="750" src="videos%2FiOSTranslate.gif" width="250"/>
+<img alt="iOSTranslate.gif" height="750" src="videos%2FiOSTranslate.gif" width="400"/>
